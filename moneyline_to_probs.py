@@ -5,7 +5,7 @@ def convert_moneyline(line: str) -> float:
   """
   Takes a moneyline input (with a + or - sign in front) and converts the line to a probability.
 
-  @params line: String input of the moneyline odds for any given sports event.
+  :params line: String input of the moneyline odds for any given sports event.
   """
 
   risk = 100
